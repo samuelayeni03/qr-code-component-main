@@ -38,6 +38,7 @@ I also learned more about flex and importing fonts.
     display: flex;
     justify-content: center;
     align-items: center;
+```
 
 
 
@@ -54,3 +55,4 @@ I want to focus on practising CSS in general because it's a bit difficult for me
 
 ## Author
 - Frontend Mentor - [@samuelayeni03](https://www.frontendmentor.io/profile/samuelaye03)
+
